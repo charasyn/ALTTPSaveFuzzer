@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+nanoarch
 
 ### Relevant game files
 # Don't include any ROMs...
