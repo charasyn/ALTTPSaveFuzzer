@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+### Relevant game files
+# Don't include any ROMs...
+*.sfc
+*.smc
