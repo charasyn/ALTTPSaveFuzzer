@@ -1,3 +1,6 @@
 [submodule "nanoarch"]
 	path = nanoarch
 	url = https://github.com/charasyn/nanoarch.git
+[submodule "bsnes-libretro"]
+	path = bsnes-libretro
+	url = https://github.com/charasyn/bsnes-libretro.git
