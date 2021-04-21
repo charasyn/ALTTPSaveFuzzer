@@ -1,0 +1,3 @@
+[submodule "nanoarch"]
+	path = nanoarch
+	url = https://github.com/charasyn/nanoarch.git
