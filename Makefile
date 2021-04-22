@@ -43,6 +43,11 @@ all: $(libretro_dstpath) $(nanoarch_dstpath)
 run:
 	$(nanoarch_dstpath) $(libretro_dstpath) rundir/rom.sfc
 
+clean:
+	$(make) -C $(libretro_directory) clean
+	$(make) -C $(nanoarch_directory) clean
+
+
 $(libretro_dstpath):
 	$(make) -C $(libretro_directory) $(libretro_target)
 	$(cp) $(libretro_srcpath) $(libretro_dstpath)

@@ -1,0 +1,12 @@
+Executing from unexpected area: 0:a6
+read from address ff2222 PC=ff2223
+read from address ff2223 PC=ff2224
+read from address ffffff PC=45d2
+read from address fe4592 PC=16955c
+read from address fe4593 PC=16955c
+read from address f302fe PC=f302ff
+read from address f302ff PC=f30300
+read from address 7d7e01 PC=44d1
+read from address 7d7e02 PC=44d1
+read from address 7b006b PC=444c
+read from address 7d7dfe PC=44f1

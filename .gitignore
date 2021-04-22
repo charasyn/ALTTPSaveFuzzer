@@ -36,3 +36,6 @@ nanoarch
 # Don't include any ROMs...
 *.sfc
 *.smc
+
+# Host tools
+host_tools/**

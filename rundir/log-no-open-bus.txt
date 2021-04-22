@@ -1,0 +1,128 @@
+015 09:0905 oam
+016 00:0082 unused
+018 00:0082 unused
+020 09:0800 oam
+021 09:1d01 cache for sprite data
+022 00:0080 unused
+024 09:1b1d HDMA data
+026 09:0ec9 sprite animation values
+027 09:03d0 "Special object" ram
+028 0c:04ff Torch timer for in-dungeon
+029 00:0082 unused
+034 09:06f0 "Special object" ram
+035 09:1088 VRAM transfer buffer?
+037 09:0048 Link can grab something?
+038 09:11a5 VRAM transfer buffer?
+040 09:02c0 Link staircase movement?
+041 09:06d0 Dungeon toggle doors
+042 09:0085 "not sure..."
+046 0d:08ff OAM buffer
+047 09:1002 VRAM transfer buffer control thing
+048 00:00a2 Previous dungeon room ptr
+053 09:02cd Zelda message counter
+054 22:1619 VRAM transfer buffer
+055 00:0082 unused
+059 09:00ff Vertical IRQ trigger
+060 00:0082 unused
+061 00:0082 unused
+063 09:02cd Zelda message counter
+064 09:0001 Temp RAM
+066 09:1cf0 Dialogue Message Index
+068 09:06a0 Magic mirror variable (0)
+069 09:0ffd "???"
+070 00:0082 unused
+071 00:00df Dungeon "3-byte pointers" - could work
+072 00:0082 unused
+077 09:03f0 Flute countdown
+078 00:0082 unused
+079 00:0080 unused
+082 00:0082 unused
+083 00:00a6 Camera control in dungeons
+084 09:1b1d HDMA pointers
+085 00:0082 unused
+089 00:0082 unused
+090 00:0082 unused
+091 09:0092 OAM pointer
+093 09:02c9 "Very limited usage only in bank 7"
+096 09:02c9 "Very limited usage only in bank 7"
+098 09:11a5 VRAM transfer buffer?
+101 09:01c9 stack!!!
+103 09:082c OAM buffer
+106 09:02f9 Tagalong something?
+109 00:0082 unused
+110 00:0080 unused
+111 09:02cf Index of current tagalong state
+113 00:0082 unused
+114 09:1002 VRAM Transfer Buffer
+115 00:0082
+117 00:0082
+121 00:0082
+122 00:0082
+123 00:0082
+124 00:0100
+126 00:0082
+128 00:0002
+143 09:0905 OAM buffer
+144 00:0082
+146 00:0082
+148 09:0800 OAM buffer
+149 09:1d01 cache for sprite data
+150 00:0080 unused
+152 09:1b1d HDMA data
+154 09:0ec9 sprite animation values
+155 09:03d0 "Special object" ram
+156 0c:04ff Torch timer for in-dungeon
+157 00:0082 unused
+162 09:06f0 "Special object" ram
+163 09:1088 VRAM transfer buffer?
+165 09:0048 Link can grab something?
+166 09:11a5 VRAM transfer buffer?
+168 09:02c0 Link staircase movement?
+169 09:06d0 Dungeon toggle doors
+170 09:0085 "not sure..."
+174 0d:08ff OAM buffer
+175 09:1002 VRAM Transfer Buffer
+176 00:00a2 Previous dungeon room ptr
+181 09:02cd
+182 22:1619
+183 00:0082
+185 09:5a20
+187 09:00ff Vertical IRQ trigger
+188 00:0082 unused
+189 00:0082 unused
+191 09:02cd Zelda message counter
+192 09:0001 Temp RAM
+194 09:1cf0 Dialogue Message Index
+196 09:06a0 Magic mirror variable (0)
+197 09:0ffd "???"
+198 00:0082 unused
+199 00:00e0 BG1 scroll
+200 00:0082 unused
+205 09:03f0 Flute countdown
+206 00:0082 unused
+207 00:0080 unused
+210 00:0082 unused
+211 00:00a6 Camera control in dungeons
+212 09:1b1d HDMA indirect pointers
+213 00:0082 unused
+217 00:0082 unused
+218 00:0082 unused
+219 09:0092 OAM pointer
+221 09:02c9 "Very limited usage only in bank 7"
+224 09:02c9 "Very limited usage only in bank 7"
+226 09:11a5 VRAM transfer buffer
+229 09:01c9 stack!!!
+231 09:082c OAM buffer
+234 09:02f9 Tagalong something?
+237 00:0082 unused
+238 00:0080 unused
+239 09:02cf Index of current tagalong state
+241 00:0082 unused
+242 09:1002 VRAM Transfer Buffer
+243 00:0082 unused
+245 00:0082 unused
+249 00:0082 unused
+250 00:0082 unused
+251 00:0082 unused
+252 00:0100 Link graphics
+254 00:0082 unused

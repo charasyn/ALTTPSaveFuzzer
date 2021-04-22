@@ -1,0 +1,13 @@
+Executing from unexpected area: 9:1b1d
+read from address ffde1c PC=cb86
+read from address ffde1d PC=cb86
+read from address ff347b PC=4215
+read from address ffffff PC=ff0000
+read from address ff0000 PC=ff0001
+read from address ff0001 PC=ff0002
+read from address ff0909 PC=ff090a
+read from address ff090a PC=ff090b
+read from address ff090b PC=ff090c
+read from address ff090c PC=ff090d
+read from address ff090d PC=ff090e
+read from address ff090e PC=ff090f

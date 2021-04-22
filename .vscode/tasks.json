@@ -11,6 +11,16 @@
                 "kind": "build",
                 "isDefault": true
             }
+        },
+        {
+            "label": "bsnes-plus",
+            "type":"process",
+            "command": "host_tools/debugger/bsnes-accuracy.exe",
+            "args": ["rundir/rom.sfc"],
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
         }
     ]
 }
